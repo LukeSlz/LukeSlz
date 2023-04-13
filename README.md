@@ -11,7 +11,7 @@
 
 - My next step is the Backend Formation in **NODO Project - EAFIT University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zokam-LS](https://github.com/Zokam-LS)
+- 👨‍💻 All of my projects are available at [https://github.com/LukeSlz](https://github.com/LukeSlz)
 
 - 💬 Ask me about **JavaScript, Node, Express**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lukeslz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucassy07/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lukeslz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukeslz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
