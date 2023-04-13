@@ -3,7 +3,7 @@
 
 - My last projects were:
 
-  - [Investment education web proposal - Angular Frameword](https://github.com/Zokam-LS/Nodo_Alpha_3/tree/main/prote-angular)
+  - [FINT - Investment education web proposal - Angular Frameword](https://github.com/LukeSlz/FINT)
 
   - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
 
