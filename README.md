@@ -1,19 +1,22 @@
 <h1 align="center">Hi, I'm Lucas (Luke) Salazar</h1>
 <h3 align="center">Curious and creative person, professional and player</h3>
 
+
 - My last projects were:
 
-  - [FINT - Investment education web proposal - Angular Frameword](https://github.com/LukeSlz/FINT)
+  - [FINT - Investment education web proposal - Angular Framework](https://github.com/LukeSlz/FINT)
 
   - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
 
-- 🌱 I’m currently learning **React, Angular, Java, Spring boot**
+- 🌱 I’m currently acquiring further knowledge in  **Java | Spring Boot** through the Backend Formation in **NODO - EAFIT University**
+- Additionally, I'm working on the Backend for the FINT website using Java | Spring Boot, Authorization + APIs consumption and CRUD operations.
+-   [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
 
-- My next step is the Backend Formation in **NODO Project - EAFIT University**
+- Also, I am working as Web Development Tutor in  **EAFIT University**, where I guide students through programming logic and a frontend approach.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LukeSlz](https://github.com/LukeSlz)
 
-- 💬 Ask me about **JavaScript, Node, Express**
+- 💬 Ask me about **JavaScript, TypeScript, Node JS, Express, Java, Spring Boot, HTML, CSS, SASS**
 
 - 📫 How to reach me **lucassy07@outlook.com**
 
