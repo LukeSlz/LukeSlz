@@ -4,19 +4,20 @@
 
 - My last projects were:
 
-  - [FINT - Investment education web proposal - Angular Framework](https://github.com/LukeSlz/FINT)
+  - [FINT - Investment education web Frontend proposal - Angular Framework](https://github.com/LukeSlz/FINT)
 
   - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
 
-- 🌱 I’m currently acquiring further knowledge in  **Java | Spring Boot** through the Backend Formation in **NODO - EAFIT University**
-- Additionally, I'm working on the Backend for the FINT website using Java | Spring Boot, Authorization + APIs consumption and CRUD operations.
--   [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
+- 🌱 I’m currently working in an improvement of FINT and integration with a full Backend service with **Java | Spring Boot** through the Backend Formation in **NODO - EAFIT University**
+- Additionally, I'm working on the Backend for the FINT website using Java | Spring Boot, Authorization JWT + APIs consumption and CRUD operations. Here you can find the ongoing projects that are integated:
+  - [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
+  - [Updated & Integrated FINT Frontend](https://github.com/LukeSlz/FINT_Frontend)
 
 - Also, I am working as Web Development Tutor in  **EAFIT University**, where I guide students through programming logic and a frontend approach.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LukeSlz](https://github.com/LukeSlz)
 
-- 💬 Ask me about **JavaScript, TypeScript, Node JS, Express, Java, Spring Boot, HTML, CSS, SASS**
+- 💬 Ask me about **Java, Spring Boot, Angular, TypeScript, JavaScript, Java Node JS, SQL, Express, HTML, CSS, SASS**
 
 - 📫 How to reach me **lucassy07@outlook.com**
 
