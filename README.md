@@ -11,7 +11,7 @@
 - 🌱 I’m currently working in an improvement of FINT and integration with a full Backend service with **Java | Spring Boot** through the Backend Formation in **NODO - EAFIT University**
 - Additionally, I'm working on the Backend for the FINT website using Java | Spring Boot, Authorization JWT + APIs consumption and CRUD operations. Here you can find the ongoing projects that are integated:
   - [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
-  - [Updated & Integrated FINT Frontend](https://github.com/LukeSlz/FINT_Frontend)
+  - [FINT Frontend_Updated & Integrated](https://github.com/LukeSlz/FINT_Frontend)
 
 - Also, I am working as Web Development Tutor in  **EAFIT University**, where I guide students through programming logic and a frontend approach.
 
