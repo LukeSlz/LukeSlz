@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas (Luke) Salazar</h1>
 <h3 align="center">Curious and creative person, professional and player</h3>
 
-<h4>Here you can check my Presentation. It's a work in progress: [Portfolio](https://lukeslz.github.io/Portfolio/)</h4>
+<h4>Here you can check my Presentation. It's a work in progress: [Portfolio](https://lukeslz.github.io/Portfolio/) </h4>
 
 
 - My last projects were:
