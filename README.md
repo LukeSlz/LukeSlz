@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Lucas (Luke) Salazar</h1>
 <h3 align="center">Curious and creative person, professional and player</h3>
 
-<h4>Here you can check my Portfolio I update it constantly: https://lukeslz.github.io/Portfolio/  </h4>
+<h4>Here you can check my Portfolio. I update it constantly: https://lukeslz.github.io/Portfolio/  </h4>
 
 - My last projects were:
 
-  - [FINT - Investment education web Frontend proposal - Angular Framework](https://github.com/LukeSlz/FINT)
+  - [FINT Frontend_Updated & Integrated](https://github.com/LukeSlz/FINT_Frontend)
+  - [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
 
   - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
 
-- 🌱 I’m currently working in an improvement of FINT and integration with a full Backend service with **Java | Spring Boot** through the Backend Formation in **NODO - EAFIT University**
-- Additionally, I'm working on the Backend for the FINT website using Java | Spring Boot, Authorization JWT + APIs consumption and CRUD operations. Here you can find the ongoing projects that are integated:
-  - [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
-  - [FINT Frontend_Updated & Integrated](https://github.com/LukeSlz/FINT_Frontend)
+- 🌱 I’m currently working in a collaborative project whose main goal is to improve reading skills on university students
+
 
 - Also, I am working as Web Development Tutor in  **EAFIT University**, where I guide students through programming logic and a frontend approach.
 
