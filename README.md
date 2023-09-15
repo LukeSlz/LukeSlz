@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Lucas (Luke) Salazar</h1>
-<h3 align="center">Curious and creative person, professional and player</h3>
+<h3 align="center">Committed to Constant Growt while building tomorrow's solutions today, one line at a time</h3>
 
-<h4>Here you can check my Portfolio. I update it constantly: https://lukeslz.github.io/Portfolio/  </h4>
+## Here you can check my Portfolio. I update it constantly: [Web Portfolio](https://lukeslz.github.io/Portfolio/)
+
+- 🌱 I’m currently working in a collaborative project whose main goal is to improve reading skills on university students: [Gnosis](https://github.com/Gnosis-Nodo/Gnosis_Frontend)
 
 - My last projects were:
 
@@ -9,9 +11,7 @@
   - [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
 
   - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
-
-- 🌱 I’m currently working in a collaborative project whose main goal is to improve reading skills on university students
-
+\
 
 - Also, I am working as Web Development Tutor in  **EAFIT University**, where I guide students through programming logic and a frontend approach.
 
