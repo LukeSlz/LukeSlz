@@ -11,9 +11,9 @@
   - [Backend for FINT - Java | Spring Boot](https://github.com/LukeSlz/FINT_Backend)
 
   - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
-\
 
-- Also, I am working as Web Development Tutor in  **EAFIT University**, where I guide students through programming logic and a frontend approach.
+
+- I also worked as Web Development Tutor in  **EAFIT University**, where I showed coding proficiency to students through programming logic and a frontend approach.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LukeSlz](https://github.com/LukeSlz)
 
