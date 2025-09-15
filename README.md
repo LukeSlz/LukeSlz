@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lucas (Luke) Salazar</h1>
+<h1 align="center">Hi, I'm Lucas Salazar</h1>
 <h3 align="center">Committed to Constant Growth while building tomorrow's solutions today, one line at a time</h3>
 
 ## Here you can check my Portfolio. I update it constantly: [Web Portfolio](https://lukeslz.github.io/Portfolio/)
